@@ -4,7 +4,7 @@ bootstrap form groups is a directive wrapper for bootstrap forms.
  
 ## quick start
 
-Syntax:  
+syntax:  
 
     <input 
         form-control 
@@ -20,8 +20,8 @@ Syntax:
 
 ##form control: `form-control`
 
-a generic way to build form controls dynamically and can be driven by scope variables generates form controls on a 
-specified type. the directive is attribute-only and replaces the original element used. scope is inherited from parent
+a generic way to build form controls dynamically and can be driven by scope variables. generates form controls from the
+type specified. the directive is attribute-only and replaces the original element it was used on. scope is inherited from parent
 
 * directly used attributes:
     * **fc-control-type** specifies the name of the element type to use. possible values are
@@ -57,14 +57,6 @@ specified type. the directive is attribute-only and replaces the original elemen
         to the generated element. parameters are treated as _literal_ parameters by the directive and will be passed to the 
         generated element as-is. this prevents the expression from being evaluated by the `fc-control` directive before 
         the underlying directive has a chance to evaluate.
-
-
-# underlying form controls
-
-## input form control
-## textarea form control
-## select form control
-
 
 # to come
 
