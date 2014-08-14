@@ -28,7 +28,7 @@ a generic way to build form controls dynamically and can be driven by scope vari
 type specified. the directive is attribute-only and replaces the original element it was used on. scope is inherited from parent
 
 * directly used attributes:
-    * **fc-control-type** specifies the name of the element type to use. possible values are
+    * **fc-form-control-type** specifies the name of the element type to use. possible values are
         1. input: `<input>`
         2. textarea: `<textarea></textarea>`
         3. select: `<select><option>...</select>`
