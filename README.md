@@ -1,6 +1,10 @@
 # bootstrap form groups
 
 bootstrap form groups is a directive wrapper for bootstrap forms.
+
+## installation
+
+bower install --save ngb-bootstrap-forms
  
 ## quick start
 
