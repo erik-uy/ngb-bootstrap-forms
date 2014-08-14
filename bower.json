@@ -1,27 +1,30 @@
 {
-  "name": "ngb-bootstrap-forms",
-  "version": "0.0.3",
-  "homepage": "https://github.com/erik-uy/ngb-bootstrap-forms",
-  "authors": [
-    "erik_uy <erik_uy@yahoo.com>"
-  ],
-  "description": "angularjs directives for building bootstrap forms",
-  "keywords": [
-    "angularjs",
-    "bootstrap",
-    "bootstrapjs",
-    "forms"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
-  "dependencies": {
-    "angular": "~1.2.0",
-    "bootstrap": "~3.2.0"
-  }
+    "name": "ngb-bootstrap-forms",
+    "version": "0.0.3",
+    "main": [
+        "ngb-bootstrap-forms.js"
+    ],
+    "homepage": "https://github.com/erik-uy/ngb-bootstrap-forms",
+    "authors": [
+        "erik_uy <erik_uy@yahoo.com>"
+    ],
+    "description": "angularjs directives for building bootstrap forms",
+    "keywords": [
+        "angularjs",
+        "bootstrap",
+        "bootstrapjs",
+        "forms"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "angular": "~1.2.0",
+        "bootstrap": "~3.2.0"
+    }
 }
