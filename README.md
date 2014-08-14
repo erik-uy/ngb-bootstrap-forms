@@ -62,6 +62,14 @@ type specified. the directive is attribute-only and replaces the original elemen
         generated element as-is. this prevents the expression from being evaluated by the `fc-control` directive before 
         the underlying directive has a chance to evaluate.
 
+
+# underlying form controls
+
+## input form control
+## textarea form control
+## select form control
+
+
 # to come
 
 ## form control group
