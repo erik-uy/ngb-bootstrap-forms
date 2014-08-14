@@ -1,0 +1,22 @@
+{
+  "name": "ngb-bootstrap-forms",
+  "version": "0.0.3",
+  "homepage": "https://github.com/erik-uy/ngb-bootstrap-forms",
+  "authors": [
+    "erik_uy <erik_uy@yahoo.com>"
+  ],
+  "keywords": [
+    "angularjs",
+    "bootstrap",
+    "bootstrapjs",
+    "forms"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
